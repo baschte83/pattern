@@ -13,4 +13,4 @@ X...X
 X...X
 ```   
 
-If x is even or 0, the program prints **Invalid Input** on the screen. If x is uneven but negative, the program turns the negative value into a positive one.
+If x is even or 0, the program prints `Invalid Input` on the screen. If x is uneven but negative, the program turns the negative value into a positive one.
